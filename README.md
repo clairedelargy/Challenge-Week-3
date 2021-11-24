@@ -1,3 +1,3 @@
-##Passwork Generator
+#Password Generator
 
 *I found this week's challenege to be **extra challenging**
