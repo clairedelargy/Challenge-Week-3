@@ -1,6 +1,6 @@
 # Password Generator
 *I found this challenge to be very challenging*
 
-![ScreenShot](https://github.com/clairedelargy/Challenge-Week-1/blob/main/assets/images/digital-marketing-meeting.jpg)
+![ScreenShot](https://github.com/clairedelargy/Challenge-Week-3/main/assets/images/capture.jpg)
 
 Here is a [link](https://clairedelargy.github.io/Challenge-Week-3/) to the website!
